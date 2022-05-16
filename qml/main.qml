@@ -1,7 +1,7 @@
 /*
- * Copyright (C) 2021 CutefishOS.
+ * Copyright (C) 2021 YoyoOS.
  *
- * Author:     Reoin Wong <reion@cutefishos.com>
+ * Author:     Reoin Wong <reion@yoyoos.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -23,8 +23,8 @@ import QtQuick.Controls 2.12
 import QtQuick.Layouts 1.12
 import QtGraphicalEffects 1.0
 
-import Cutefish.Launcher 1.0
-import Cutefish.System 1.0 as System
+import Yoyo.Launcher 1.0
+import Yoyo.System 1.0 as System
 import FishUI 1.0 as FishUI
 
 Item {
