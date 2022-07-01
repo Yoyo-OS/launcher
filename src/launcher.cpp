@@ -119,7 +119,6 @@ void Launcher::hideWindow()
 
 void Launcher::toggle()
 {
-    updateSize();
     isVisible() ? Launcher::hideWindow() : Launcher::showWindow();
 }
 
