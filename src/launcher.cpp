@@ -104,6 +104,7 @@ bool Launcher::showed()
 
 void Launcher::showWindow()
 {
+    updateSize();
     m_showed = true;
     emit showedChanged();
 
